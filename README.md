@@ -21,7 +21,7 @@ docker build -t cross-selling:v20210317 -f Dockerfile .
 
 (c) Run Docker image, run the following command and the argument *\<path to project folder\>* by the directory on your machine, e.g. *C:\cross-selling* <p>
 ```
-docker run -d --name "cross-selling" --entrypoint "/bin/bash" -it -p 8888:8888 -v "\<path to project folder\>":/workspace/cross-selling cross-selling:v20210317
+docker run -d --name "cross-selling" --entrypoint "/bin/bash" -it -p 8888:8888 -v "<path to project folder>":/workspace/cross-selling cross-selling:v20210317
 ```
   
 (d) Start the container <p>
