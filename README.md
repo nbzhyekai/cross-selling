@@ -37,7 +37,7 @@ root@7298753620f1:/#
 ```
 root@7298753620f1:/# pip install jupyterlab
 ```
-(f) After installing, start Jupyter lab
+(f) After installation, start Jupyter lab
 ```
 root@7298753620f1:/# jupyter lab --ip=0.0.0.0 --port=8888 --allow-root
 ```  
