@@ -1,0 +1,5 @@
+numpy==1.20.0
+pandas==1.2.3
+matplotlib==3.3.4
+orange3==3.25.0
+Orange3-Associate==1.1.8
